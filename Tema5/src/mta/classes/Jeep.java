@@ -5,7 +5,8 @@ import mta.myinterface.Car;
 public class Jeep implements Car {
 
 	public String drive() {
-		return "\nYou drive Jeep\n";
+		return "\nYou are driving Jeep"; // implementare pentru functia din
+											// interfata
 	}
 
 }

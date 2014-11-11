@@ -8,6 +8,7 @@ public class Logan implements Car {
 	 * @param args
 	 */
 	public String drive() {
-		return "\nYou drive Logan\n";
+		return "\nYou are driving Logan"; // implementare pentru functia din
+											// interfata
 	}
 }
